@@ -2,4 +2,4 @@
 
 ### Simple repository for files
 
-Visit ![Stckedit.io](https://stackedit.io/editor)
+Visit [Stckedit.io](https://stackedit.io/editor)
